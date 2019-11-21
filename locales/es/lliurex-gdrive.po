@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-16 12:51+0100\n"
+"PO-Revision-Date: 2018-11-16 13:14+0100\n"
+"Last-Translator: Pilar Embid Giner <embid_mar@gva.es>\n"
+"Language-Team: LliureX\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+
+msgid "-Files added: "
+msgstr "-Fitxers afegits: "
+
+msgid "-Files deleted: "
+msgstr "-Fitxers suprimits: "
+
+msgid "-Files updated: "
+msgstr "-Fitxers actualitzats: "
+
+msgid "Add new profile"
+msgstr "Afig perfil"
+
+msgid "An error occurred updating the cache. Try again"
+msgstr ""
+"S'ha produït un error en actualitzar la memòria cau. Torneu-ho a provar"
+
+msgid "Applying changes..."
+msgstr "S'estan aplicant els canvis..."
+
+msgid "Cache updated successfully"
+msgstr "Memòria cau actualitzada correctament"
+
+msgid "Cancel"
+msgstr "Cancel·la"
+
+msgid "Changes applied successfully"
+msgstr "Els canvis s'han aplicat correctament."
+
+msgid "Changes in last 15 minutes in "
+msgstr "Canvis realitzats en els últims 15 minuts en "
+
+msgid "Checking connection to google..."
+msgstr "S'està comprovant la connexió a Google..."
+
+msgid "Click if do not see all the files in the Google Drive account"
+msgstr ""
+"Polseu ací si no es mostren tots els fitxers del compte sincronitzat del "
+"Google Drive"
+
+msgid "Close"
+msgstr "Tanca"
+
+msgid "Connecting with google to get account access..."
+msgstr "S'està connectant amb Google per a accedir al compte..."
+
+msgid "Create new profile"
+msgstr "Crea un nou perfil"
+
+msgid "Creating profile... "
+msgstr "S'està creant el perfil..."
+
+msgid "Delete profile"
+msgstr "Esborra el perfil"
+
+msgid "Dismounted. Clicked to mount now"
+msgstr "Desmuntat. Feu clic per a muntar ara."
+
+msgid "Do you want delete the profile?"
+msgstr "Voleu esborrar el perfil?"
+
+msgid "E-mail:"
+msgstr "Correu electrònic:"
+
+msgid "Edit profile"
+msgstr "Edita el perfil"
+
+msgid "Edit synced Gdrive folder:"
+msgstr "Edita la carpeta sincronitzada del Gdrive"
+
+msgid "Error getting authorization"
+msgstr "S'ha produït un error mentre s'obtenia autorització."
+
+msgid "Error: Mount point is not owned by user"
+msgstr "Error: El punt de muntatge no és propietat de l'usuari."
+
+msgid "Error: No folders found in Gdrive profile. You must disable the option"
+msgstr ""
+"Error: No s'ha trobat cap carpeta al perfil del Gdrive. Heu d'inhabilitar "
+"l'opció"
+
+msgid "Error: No mount point indicated"
+msgstr "Error: No s'ha especificat un punt de muntatge."
+
+msgid "Error: Profile is not authorized to Google Drive"
+msgstr "Error: El perfil no té autorització al Google Drive."
+
+msgid "Error: Synced Gdrive folder no longer exists"
+msgstr "Error: La carpeta sincronitzada al Gdrive ja no existeix."
+
+msgid ""
+"Error: To add a profile it is required that Chromium is not the default "
+"browser"
+msgstr ""
+"Error: per a afegir un perfil cal que el Chromium no siga el navegador "
+"predeterminat"
+
+msgid "Error: Unable to "
+msgstr "Error: No s'ha pogut "
+
+msgid "Error: Unable to connect with google"
+msgstr "Error: No s'ha pogut connectar amb Google."
+
+msgid "Error: Unable to create mount point"
+msgstr "Error: No s'ha pogut crear el punt de muntatge."
+
+msgid "Error: Unable to dismount mount point"
+msgstr "Error: No s'ha pogut desmuntar el punt de muntatge."
+
+msgid "Error: Unable to mount mount point"
+msgstr "Error: No s'ha pogut muntar el punt de muntatge."
+
+msgid ""
+"Error: Unable to mount mount point. The synced GDrive folder maybe not be "
+"correct"
+msgstr ""
+"Error: No s'ha pogut muntar el punt de muntatge. Potser la carpeta "
+"sincronitzada al GDrive no és correcta."
+
+msgid "Error: Unknow profile"
+msgstr "Error: Perfil desconegut."
+
+msgid "Error: You must specify a GDrive folder or disable the option"
+msgstr "Error: Heu d'especificar una carpeta al GDrive o inhabilitar l'opció"
+
+msgid "Getting folders from Google Drive profile ..."
+msgstr "S'estan obtenint les carpetes des del perfil del Google Drive..."
+
+msgid "Global management"
+msgstr "Gestió global"
+
+msgid "Help"
+msgstr "Ajuda"
+
+msgid "Hide menu indicator at login"
+msgstr "Oculta l'indicador de menú en iniciar sessió"
+
+msgid "Lliurex GDrive is now running."
+msgstr "El LliureX GDrive està ara en execució."
+
+msgid "Manage profile"
+msgstr "Gestiona el perfil"
+
+msgid "Mount at login:"
+msgstr "S'ha de muntar en l'inici de sessió:"
+
+msgid "Mount point already used by another profile"
+msgstr "El punt de muntatge ja s'està utilitzant per un altre perfil."
+
+msgid "Mount point is not owned by user"
+msgstr "El punt de muntatge no és propietat de l'usuari."
+
+msgid "Mount point:"
+msgstr "Punt de muntatge:"
+
+msgid "Mounted. Clicked to dismount now"
+msgstr "Muntat. Feu clic per a desmuntar ara."
+
+msgid "No folders detected on google drive profile"
+msgstr "No s'ha detectat cap carpeta en el perfil del Google Drive."
+
+msgid "Open Lliurex GDrive"
+msgstr "Obri el LliureX GDrive"
+
+msgid "Open folder"
+msgstr "Obri la carpeta"
+
+msgid "Path of mount point can not contain blanks"
+msgstr "La ubicació del punt de muntatge no pot contindre espais en blanc."
+
+msgid "Profile already exists"
+msgstr "El perfil ja existeix."
+
+msgid "Profile can not contain blanks"
+msgstr "El perfil no pot contindre espais en blanc"
+
+msgid "Profile created successfully"
+msgstr "El perfil s'ha creat correctament."
+
+msgid "Profile:"
+msgstr "Perfil:"
+
+msgid "Select folder of GDrive to sync"
+msgstr "Seleccioneu la carpeta del GDrive que voleu sincronitzar"
+
+msgid "Show menu indicator at login"
+msgstr "Mostra l'indicador de menú en iniciar sessió"
+
+msgid "Status updated. Now you can change it"
+msgstr "S'ha actualitzat l'estat. Ara podeu canviar-lo."
+
+msgid "Sync specific Gdrive folder:"
+msgstr "Sincronitza una carpeta específica del Gdrive:"
+
+msgid "Synced Gdrive folder:"
+msgstr "Carpeta sincronitzada del Gdrive:"
+
+msgid ""
+"The menu indicator has been disabled. It will hide automatically when you "
+"log in"
+msgstr ""
+"L'indicador de menú ha sigut desactivat. S'ocultarà automàticament en "
+"iniciar sessió"
+
+msgid ""
+"The menu indicator has been enabled. It will be displayed automatically when "
+"you close the application"
+msgstr ""
+"L'indicador de menú ha sigut activat. Es mostrarà automàticament en "
+"iniciar sessió"
+
+msgid "The mount point must be an empty folder"
+msgstr "El punt de muntatge ha de ser una carpeta buida."
+
+msgid ""
+"To add a profile it is necessary to change Chromium as default browser by "
+"another (Firefox or Chrome).\n"
+"The change will be made automatically. Once the profile is added Chromium it "
+"will be the favorite browser again.\n"
+"Do you wish to continue?"
+msgstr ""
+"Per a afegir un perfil cal canviar el Chromium com a navegador predeterminat "
+"per un altre navegador (Firefox o Chrome).\n"
+"El canvi es realitzarà automàticament. Una vegada s'haja afegit el perfil, "
+"el Chromium tornarà a ser el navegador predeterminat.\n"
+"Voleu continuar?"
+
+msgid "Update cache"
+msgstr "Actualitza la memòria cau"
+
+msgid "Used: %s of %s"
+msgstr "Ús: %s de %s"
+
+msgid "Used: not available"
+msgstr "En ús: no disponible"
+
+msgid "Validating entered data..."
+msgstr "S'estan validant les dades introduïdes..."
+
+msgid "Without connection. Clicked to update"
+msgstr "No hi ha connexió. Feu clic per a actualitzar"
+
+msgid "You must indicate a profile"
+msgstr "Cal que indiqueu un perfil"
+
+msgid "dismount"
+msgstr "desmunta"
+
+msgid "mount"
+msgstr "munta"
