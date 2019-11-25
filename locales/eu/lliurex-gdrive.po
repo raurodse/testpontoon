@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-16 12:51+0100\n"
+"PO-Revision-Date: 2019-11-21 12:30+0100\n"
+"Language-Team: LliureX\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Language: ca@valencia\n"
+
+msgid "-Files added: "
+msgstr ""
+
+msgid "-Files deleted: "
+msgstr ""
+
+msgid "-Files updated: "
+msgstr ""
+
+msgid "Add new profile"
+msgstr ""
+
+msgid "An error occurred updating the cache. Try again"
+msgstr ""
+
+msgid "Applying changes..."
+msgstr ""
+
+msgid "Cache updated successfully"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Changes applied successfully"
+msgstr ""
+
+msgid "Changes in last 15 minutes in "
+msgstr ""
+
+msgid "Checking connection to google..."
+msgstr ""
+
+msgid "Click if do not see all the files in the Google Drive account"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Connecting with google to get account access..."
+msgstr ""
+
+msgid "Create new profile"
+msgstr ""
+
+msgid "Creating profile... "
+msgstr ""
+
+msgid "Delete profile"
+msgstr ""
+
+msgid "Dismounted. Clicked to mount now"
+msgstr ""
+
+msgid "Do you want delete the profile?"
+msgstr ""
+
+msgid "E-mail:"
+msgstr ""
+
+msgid "Edit profile"
+msgstr ""
+
+msgid "Edit synced Gdrive folder:"
+msgstr ""
+
+msgid "Error getting authorization"
+msgstr ""
+
+msgid "Error: Mount point is not owned by user"
+msgstr ""
+
+msgid "Error: No folders found in Gdrive profile. You must disable the option"
+msgstr ""
+
+msgid "Error: No mount point indicated"
+msgstr ""
+
+msgid "Error: Profile is not authorized to Google Drive"
+msgstr ""
+
+msgid "Error: Synced Gdrive folder no longer exists"
+msgstr ""
+
+msgid ""
+"Error: To add a profile it is required that Chromium is not the default "
+"browser"
+msgstr ""
+
+msgid "Error: Unable to "
+msgstr ""
+
+msgid "Error: Unable to connect with google"
+msgstr ""
+
+msgid "Error: Unable to create mount point"
+msgstr ""
+
+msgid "Error: Unable to dismount mount point"
+msgstr ""
+
+msgid "Error: Unable to mount mount point"
+msgstr ""
+
+msgid ""
+"Error: Unable to mount mount point. The synced GDrive folder maybe not be "
+"correct"
+msgstr ""
+
+msgid "Error: Unknow profile"
+msgstr ""
+
+msgid "Error: You must specify a GDrive folder or disable the option"
+msgstr ""
+
+msgid "Getting folders from Google Drive profile ..."
+msgstr ""
+
+msgid "Global management"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Hide menu indicator at login"
+msgstr ""
+
+msgid "Lliurex GDrive is now running."
+msgstr ""
+
+msgid "Manage profile"
+msgstr ""
+
+msgid "Mount at login:"
+msgstr ""
+
+msgid "Mount point already used by another profile"
+msgstr ""
+
+msgid "Mount point is not owned by user"
+msgstr ""
+
+msgid "Mount point:"
+msgstr ""
+
+msgid "Mounted. Clicked to dismount now"
+msgstr ""
+
+msgid "No folders detected on google drive profile"
+msgstr ""
+
+msgid "Open Lliurex GDrive"
+msgstr ""
+
+msgid "Open folder"
+msgstr ""
+
+msgid "Path of mount point can not contain blanks"
+msgstr ""
+
+msgid "Profile already exists"
+msgstr ""
+
+msgid "Profile can not contain blanks"
+msgstr ""
+
+msgid "Profile created successfully"
+msgstr ""
+
+msgid "Profile:"
+msgstr ""
+
+msgid "Select folder of GDrive to sync"
+msgstr ""
+
+msgid "Show menu indicator at login"
+msgstr ""
+
+msgid "Status updated. Now you can change it"
+msgstr ""
+
+msgid "Sync specific Gdrive folder:"
+msgstr ""
+
+msgid "Synced Gdrive folder:"
+msgstr ""
+
+msgid ""
+"The menu indicator has been disabled. It will hide automatically when you "
+"log in"
+msgstr ""
+
+msgid ""
+"The menu indicator has been enabled. It will be displayed automatically when "
+"you close the application"
+msgstr ""
+
+msgid "The mount point must be an empty folder"
+msgstr ""
+
+msgid ""
+"To add a profile it is necessary to change Chromium as default browser by "
+"another (Firefox or Chrome).\n"
+"The change will be made automatically. Once the profile is added Chromium it "
+"will be the favorite browser again.\n"
+"Do you wish to continue?"
+msgstr ""
+
+msgid "Update cache"
+msgstr ""
+
+msgid "Used: %s of %s"
+msgstr ""
+
+msgid "Used: not available"
+msgstr ""
+
+msgid "Validating entered data..."
+msgstr ""
+
+msgid "Without connection. Clicked to update"
+msgstr ""
+
+msgid "You must indicate a profile"
+msgstr ""
+
+msgid "dismount"
+msgstr ""
+
+msgid "mount"
+msgstr ""
