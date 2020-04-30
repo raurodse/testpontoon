@@ -3,216 +3,215 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-16 12:51+0100\n"
-"PO-Revision-Date: 2019-11-25 16:17+0000\n"
-"Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
-"Language-Team: Valencian <http://localhost/projects/lliurex-kde/traduciones/"
-"ca@valencia/>\n"
-"Language: ca@valencia\n"
+"PO-Revision-Date: 2019-11-21 12:30+0100\n"
+"Language-Team: LliureX\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.9.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Language: ca@valencia\n"
 
 msgid "-Files added: "
-msgstr "-Ficheros añadidos "
+msgstr ""
 
 msgid "-Files deleted: "
-msgstr "asdf "
+msgstr ""
 
 msgid "-Files updated: "
-msgstr "fdsa "
+msgstr ""
 
 msgid "Add new profile"
-msgstr "fds"
+msgstr ""
 
 msgid "An error occurred updating the cache. Try again"
-msgstr "asdf"
+msgstr ""
 
 msgid "Applying changes..."
-msgstr "sdf"
+msgstr ""
 
 msgid "Cache updated successfully"
-msgstr "asdf"
+msgstr ""
 
 msgid "Cancel"
-msgstr "asdf"
+msgstr ""
 
 msgid "Changes applied successfully"
-msgstr "ffdsa"
+msgstr ""
 
 msgid "Changes in last 15 minutes in "
-msgstr "asdf "
+msgstr ""
 
 msgid "Checking connection to google..."
-msgstr "asdf..."
+msgstr ""
 
 msgid "Click if do not see all the files in the Google Drive account"
-msgstr "asdf"
+msgstr ""
 
 msgid "Close"
-msgstr "asdf"
+msgstr ""
 
 msgid "Connecting with google to get account access..."
-msgstr "asdf..."
+msgstr ""
 
 msgid "Create new profile"
-msgstr "asdf"
+msgstr ""
 
 msgid "Creating profile... "
-msgstr "asdf "
+msgstr ""
 
 msgid "Delete profile"
-msgstr "asdf"
+msgstr ""
 
 msgid "Dismounted. Clicked to mount now"
-msgstr "asdf"
+msgstr ""
 
 msgid "Do you want delete the profile?"
-msgstr "asdf"
+msgstr ""
 
 msgid "E-mail:"
-msgstr "asdf"
+msgstr ""
 
 msgid "Edit profile"
-msgstr "asdf"
+msgstr ""
 
 msgid "Edit synced Gdrive folder:"
-msgstr "ads"
+msgstr ""
 
 msgid "Error getting authorization"
-msgstr "adsf"
+msgstr ""
 
 msgid "Error: Mount point is not owned by user"
-msgstr "jlkj"
+msgstr ""
 
 msgid "Error: No folders found in Gdrive profile. You must disable the option"
-msgstr "jklj"
+msgstr ""
 
 msgid "Error: No mount point indicated"
-msgstr "kj"
+msgstr ""
 
 msgid "Error: Profile is not authorized to Google Drive"
-msgstr "kj"
+msgstr ""
 
 msgid "Error: Synced Gdrive folder no longer exists"
-msgstr "kj"
+msgstr ""
 
 msgid ""
 "Error: To add a profile it is required that Chromium is not the default "
 "browser"
-msgstr "kj"
+msgstr ""
 
 msgid "Error: Unable to "
-msgstr "kj "
+msgstr ""
 
 msgid "Error: Unable to connect with google"
-msgstr "kj"
+msgstr ""
 
 msgid "Error: Unable to create mount point"
-msgstr "kj"
+msgstr ""
 
 msgid "Error: Unable to dismount mount point"
-msgstr "kj"
+msgstr ""
 
 msgid "Error: Unable to mount mount point"
-msgstr "k"
+msgstr ""
 
 msgid ""
 "Error: Unable to mount mount point. The synced GDrive folder maybe not be "
 "correct"
-msgstr "jk"
+msgstr ""
 
 msgid "Error: Unknow profile"
-msgstr "jk"
+msgstr ""
 
 msgid "Error: You must specify a GDrive folder or disable the option"
-msgstr "j"
+msgstr ""
 
 msgid "Getting folders from Google Drive profile ..."
-msgstr "kj"
+msgstr ""
 
 msgid "Global management"
-msgstr "klj"
+msgstr ""
 
 msgid "Help"
-msgstr "lkj"
+msgstr ""
 
 msgid "Hide menu indicator at login"
-msgstr "lkj"
+msgstr ""
 
 msgid "Lliurex GDrive is now running."
-msgstr "lk"
+msgstr ""
 
 msgid "Manage profile"
-msgstr "jl"
+msgstr ""
 
 msgid "Mount at login:"
-msgstr "kjl"
+msgstr ""
 
 msgid "Mount point already used by another profile"
-msgstr "kj"
+msgstr ""
 
 msgid "Mount point is not owned by user"
-msgstr "lkj"
+msgstr ""
 
 msgid "Mount point:"
-msgstr "lkaasdf"
+msgstr ""
 
 msgid "Mounted. Clicked to dismount now"
-msgstr "lkjkljlk"
+msgstr ""
 
 msgid "No folders detected on google drive profile"
-msgstr "lkjlkj"
+msgstr ""
 
 msgid "Open Lliurex GDrive"
-msgstr "kljlkj"
+msgstr ""
 
 msgid "Open folder"
-msgstr "lkjlk"
+msgstr ""
 
 msgid "Path of mount point can not contain blanks"
-msgstr "jlkjlkj"
+msgstr ""
 
 msgid "Profile already exists"
-msgstr "lkj"
+msgstr ""
 
 msgid "Profile can not contain blanks"
-msgstr "lkj"
+msgstr ""
 
 msgid "Profile created successfully"
-msgstr "lkj"
+msgstr ""
 
 msgid "Profile:"
-msgstr "lkj"
+msgstr ""
 
 msgid "Select folder of GDrive to sync"
-msgstr "lkj"
+msgstr ""
 
 msgid "Show menu indicator at login"
-msgstr "lkj"
+msgstr ""
 
 msgid "Status updated. Now you can change it"
-msgstr "lkj"
+msgstr ""
 
 msgid "Sync specific Gdrive folder:"
-msgstr "lkj"
+msgstr ""
 
 msgid "Synced Gdrive folder:"
-msgstr "lkj"
+msgstr ""
 
 msgid ""
 "The menu indicator has been disabled. It will hide automatically when you "
 "log in"
-msgstr "lkj"
+msgstr ""
 
 msgid ""
 "The menu indicator has been enabled. It will be displayed automatically when "
 "you close the application"
-msgstr "lkj"
+msgstr ""
 
 msgid "The mount point must be an empty folder"
-msgstr "klj"
+msgstr ""
 
 msgid ""
 "To add a profile it is necessary to change Chromium as default browser by "
@@ -220,28 +219,28 @@ msgid ""
 "The change will be made automatically. Once the profile is added Chromium it "
 "will be the favorite browser again.\n"
 "Do you wish to continue?"
-msgstr "lkj"
+msgstr ""
 
 msgid "Update cache"
-msgstr "lk"
+msgstr ""
 
 msgid "Used: %s of %s"
-msgstr "jlkj"
+msgstr ""
 
 msgid "Used: not available"
-msgstr "lkj"
+msgstr ""
 
 msgid "Validating entered data..."
-msgstr "lk"
+msgstr ""
 
 msgid "Without connection. Clicked to update"
-msgstr "jlk"
+msgstr ""
 
 msgid "You must indicate a profile"
-msgstr "jkl"
+msgstr ""
 
 msgid "dismount"
-msgstr "jlkjlkj"
+msgstr ""
 
 msgid "mount"
-msgstr "lkjlkj"
+msgstr ""
